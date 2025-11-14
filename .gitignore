@@ -1,2 +1,5 @@
 dataset
 venv
+/cs/test/.vs
+/cs/test/bin
+/cs/test/obj
